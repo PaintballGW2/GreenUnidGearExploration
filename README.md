@@ -275,7 +275,7 @@ I have not considered the Tp taxes and the salvage costs. In the following secti
 - Based on the sell price, the impact of rare upgrades on the outcome of green unid gear 6.25 copper. 
 - Based on the buy price, the impact of rare upgrades on the outcome of green unid gear is 5.21 copper. 
 </br>
-All data was recorded using the drf addon. You can find it here: drf.rs. I used the datawars2 API to get the Guild Wars 2 API data more easily.</br>
+All data was recorded using the drf addon. You can find it here: https://drf.rs. I used the datawars2 API to get the Guild Wars 2 API data more easily.</br>
 </br>
 
 ## Software and Addons
